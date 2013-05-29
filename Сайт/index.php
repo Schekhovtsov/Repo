@@ -1,14 +1,14 @@
-Ôªø<!DOCTYPE HTML> 
+<!DOCTYPE HTML> 
 <html>
 <head>
 <HEAD>
-	<title> –ù–ê–® –°–ê–ô–¢ </title>
+	<title> Õ¿ÿ —¿…“ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
 <body>
 
-<!-- —Ç–µ–ª–æ -->
+<!-- ÚÂÎÓ -->
 
 </body>
 
