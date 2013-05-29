@@ -2,13 +2,13 @@
 <html>
 <head>
 <HEAD>
-	<title> Õ¿ÿ —¿…“ </title>
+	<title> –ù–ê–® –°–ê–ô–¢ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
 <body>
 
-<!-- ÚÂÎÓ -->
+<!-- –¢–ï–õ–û -->
 
 </body>
 
